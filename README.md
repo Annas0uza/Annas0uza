@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Annas0uza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annas0uza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annas0uza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annas0uza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annas0uza&layout=compact&langs_count=7&theme=dark"/>
 </div> 
   
  ##
@@ -15,6 +15,6 @@
   <div> 
   <a href = "mailto:souzalaiza09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
-   
- ![Snake animation](https://github.com/Annas0uza/Annas0uza/blob/output/github-contribution-grid-snake.svg)
+  
+   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
   
