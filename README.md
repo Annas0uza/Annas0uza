@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Anna Laiza.
 
-- Tenho 18 anos e estou me graduando em Análise e desenvolvimentos de sistemas 📝
+- Estou me graduando em Análise e desenvolvimentos de sistemas 📝
 
 - Estudando linguagens de programação, ainda não me especializei em uma. 
 
