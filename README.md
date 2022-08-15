@@ -1,4 +1,4 @@
-## Olá, Eu sou a Anna Laiza.
+## Olá, Eu sou a Anna Souza.
 
 - Estou me graduando em Análise e desenvolvimentos de sistemas 📝
 
